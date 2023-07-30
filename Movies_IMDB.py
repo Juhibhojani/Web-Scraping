@@ -8,16 +8,21 @@ soup = BeautifulSoup(html_text, "lxml")
 movies_container = soup.find("ul", {"class":"ipc-metadata-list ipc-metadata-list--dividers-between sc-3a353071-0 wTPeg compact-list-view ipc-metadata-list--base"})
 movies = []
 
-print(movies_container.text)
 for items in movies_container.find_all("li"):
     title = items.find("h3").text
-    print(title)
     years = items.find("span",{"class":"sc-14dd939d-6 kHVqMR cli-title-metadata-item"})
-    print(years.text)
+    years = years.text
     duration = years.next_sibling
-    print(duration.text)
+    duration = duration.text
     age_criteria = duration.next_sibling
-    print(age_criteria.text)
+    age = age_criteria.text
     rating = items.find("span",{"class":"ipc-rating-star ipc-rating-star--base ipc-rating-star--imdb ratingGroup--imdb-rating"})
-    print(rating.text)
-
+    rating = rating.text
+    data = {
+        "Title":title,
+        "Year":years,
+        "Duration":duration,
+        "Age Criteria":age,
+        "Rating":rating
+    }
+    movies.append(data)
