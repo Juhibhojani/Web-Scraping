@@ -12,3 +12,4 @@
 - Geeks for Geeks
 - eBay
 - IMDb
+- Zomato
