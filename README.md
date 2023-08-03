@@ -4,14 +4,14 @@
 - Kindle
 - Internshala
 - Times of India
-- UCI machine learning repository
+- UCI Machine Learning Repository
 - Yahoo Finance
 - Airline Review Data
-- Hackerearth
+- HackerEarth
 - Swiggy
 - Geeks for Geeks
 - eBay
 - IMDb
 - Zomato
 - ESPN
-- Magic Bricks (House Price)
+- House Price (Magic Bricks)
