@@ -22,13 +22,13 @@ This repository contains Python scripts demonstrating web scraping from various 
 
 # Datasets Available on Kaggle
 
-## Airline Review Dataset
+### Airline Review Dataset
 
 Explore reviews for 491 different airlines with this dataset. The dataset provides valuable insights into the experiences of passengers with various airlines.
 
 **Link:** [Airline Review Dataset](https://www.kaggle.com/datasets/juhibhojani/airline-reviews)
 
-## House Price Dataset
+### House Price Dataset
 
 This dataset consists of 188K rows of house prices from cities all over India. It's a great resource for analyzing housing trends and prices in different Indian cities.
 
