@@ -20,6 +20,7 @@ This repository contains Python scripts demonstrating web scraping from various 
 14. **ESPN Sports News**: Scrape sports news and updates from ESPN.
 15. **House Price (Magic Bricks)**: Extract real estate property details and prices from the Magic Bricks website.
 16. **World Health Organization (WHO)**: Scrape the latest disease outbreak news list from the World Health Organization (WHO).
+17. **Smart India Hackathon Data Scraper**: Extracts and compiles problem statements and associated details from the Smart India Hackathon competition.
 
 # Datasets Available on Kaggle
 
@@ -34,3 +35,12 @@ Explore reviews for 491 different airlines with this dataset. The dataset provid
 This dataset consists of 188K rows of house prices from cities all over India. It's a great resource for analyzing housing trends and prices in different Indian cities.
 
 **Link:** [House Price Dataset](https://www.kaggle.com/datasets/juhibhojani/house-price)
+
+### SIH Challenge Set
+
+This dataset comprises a diverse collection of 563 problem statements presented during the Smart India Hackathon, offering valuable insights into innovative challenges across various domains in India.
+
+**Link:** [SIH Challenge Set](https://www.kaggle.com/datasets/juhibhojani/sih-challenge-set)
+
+
+
