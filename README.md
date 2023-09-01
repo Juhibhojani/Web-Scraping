@@ -21,6 +21,7 @@ This repository contains Python scripts demonstrating web scraping from various 
 15. **House Price (Magic Bricks)**: Extract real estate property details and prices from the Magic Bricks website.
 16. **World Health Organization (WHO)**: Scrape the latest disease outbreak news list from the World Health Organization (WHO).
 17. **Smart India Hackathon Data Scraper**: Extracts and compiles problem statements and associated details from the Smart India Hackathon competition.
+18. **Booking.com**: Extracts reviews of all hotels from booking.com at New Delhi
 
 # Datasets Available on Kaggle
 
@@ -42,5 +43,9 @@ This dataset comprises a diverse collection of 563 problem statements presented 
 
 **Link:** [SIH Challenge Set](https://www.kaggle.com/datasets/juhibhojani/sih-challenge-set)
 
+### Hotel Reviews
 
+Explore a comprehensive dataset of 7,000 hotel reviews, each accompanied by an associated rating, providing a comprehensive perspective on guest experiences.
+
+**Link:** [Hotel Reviews](https://www.kaggle.com/datasets/juhibhojani/hotel-reviews)
 
